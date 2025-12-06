@@ -16,7 +16,7 @@
 </div>
 </td>
 <td align="center" valign="middle">
-<img src="https://static.macupdate.com/screenshots/348329/m/nisus-writer-pro-screenshot.png?v=1667998960" width="500">
+<img src="https://www.mactrast.com/wp-content/uploads/2017/08/nisus_writer_1.jpg" width="500">
 </td>
 </tr>
 </table>
